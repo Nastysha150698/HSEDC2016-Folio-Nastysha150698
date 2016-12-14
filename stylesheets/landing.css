@@ -326,16 +326,9 @@ body.landing .menubar div {
 .mainSection {
   position: relative;
   width: 840px;
-  height: 568px;
-  overflow: hidden;
-}
-
-.mainSection {
-  position: relative;
-  width: 768px;
   height: 1024px;
   overflow: hidden;
-  }
+}
 
 .mainSection  h2 {
   font-size: 30px;
