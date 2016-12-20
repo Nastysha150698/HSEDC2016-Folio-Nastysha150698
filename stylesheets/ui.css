@@ -1,5 +1,5 @@
 .btn {
-  display:  inline-block;
+  display: inline-block;
   border-width: 1px;
   text-align: center;
   margin-left: 4px;
@@ -48,6 +48,7 @@
     font-size: 13px;
     margin-top: 42px;
   }
+
 }
 
 @media screen and (max-width: 840px) {
@@ -68,4 +69,5 @@
     margin-top: 92px;
     margin-left: 1px;
   }
+  
 }
