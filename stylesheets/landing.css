@@ -110,7 +110,7 @@ body.landing .menubar div {
   width: 30px;
   height: 4px;
   margin-top: 57px;
-  background-image: url(../images/pattern.png);
+  background-color: #50E3C2;
 }
 
 .mainSection.left section figure {
@@ -323,14 +323,14 @@ body.landing .menubar div {
     overflow: hidden;
   }
 
-  .mainSection  h2 {
+  .mainSection h2 {
     font-size: 30px;
     line-height: 39px;
     margin-top: 46px;
     margin-left: -19px;
   }
 
-  .mainSection  p {
+  .mainSection p {
     margin-top: 18px;
     font-size: 16px;
     line-height: 26px;
@@ -345,7 +345,7 @@ body.landing .menubar div {
     margin-left: -1px;
   }
 
-  .mainSection.center  p {
+  .mainSection.center p {
     margin-top: 18px;
     font-size: 16px;
     line-height: 26px;
@@ -437,10 +437,10 @@ body.landing .menubar div {
 
 @media screen and (-webkit-min-device-pixel-ratio: 2) {
 
-  #mockup1 { background-image: url(../images/about_2x.png); }
-  #mockup2_1 { background-image: url(../images/work_2x.png); }
-  #mockup2_2 { background-image: url(../images/works_2x.png); }
-  #mockup2_3 { background-image: url(../images/about_2x.png); }
-  #mockup3 { background-image: url(../images/screens_2x.png); }
+  #mockup1   { background-image: url(../images/about@2x.png); }
+  #mockup2_1 { background-image: url(../images/work@2x.png); }
+  #mockup2_2 { background-image: url(../images/works@2x.png); }
+  #mockup2_3 { background-image: url(../images/about@2x.png); }
+  #mockup3   { background-image: url(../images/screens@2x.png); }
 
 }
